@@ -1,0 +1,47 @@
+/*search */
+.search {
+    margin: 3em 3em 3em 3em;
+    width: 80%;
+}
+
+.form-control:focus {
+    outline: none !important;
+    border: 1px solid #17a3b88e;
+    box-shadow: 0 0 10px #17a3b880;
+}
+
+/* card */
+.card {
+    margin: 0;
+    vertical-align: middle;
+    margin-bottom: 1rem;
+    box-shadow: 0px 3px 16px #ccc;
+    transition: all 0.4s;
+    width: 30em;
+    margin: 2em;
+}
+
+.card-title.h5 {
+    font-size: 1.25em;
+    color:    #17a2b8;
+}
+
+.card-img-top{
+    padding-top: 4em;
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+/* card ingredient list*/
+.list-group {
+    margin: 0.3rem;
+    display: inline-block; 
+	text-align: left; 
+}
+
+/*button*/
+.btn-block { 
+    margin-top: 1.5rem;
+}
